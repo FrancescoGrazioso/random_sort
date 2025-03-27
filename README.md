@@ -3,7 +3,7 @@
 A Python library that implements an "innovative" sorting algorithm based on randomization.
 
 [![GitHub License](https://img.shields.io/github/license/FrancescoGrazioso/random_sort)](https://github.com/FrancescoGrazioso/random_sort/blob/main/LICENSE)
-[![PyPI Version](https://img.shields.io/badge/pypi-v0.1.1-blue)](https://github.com/FrancescoGrazioso/random_sort/releases)
+[![PyPI Version](https://img.shields.io/pypi/v/random-sort)](https://pypi.org/project/random-sort/)
 
 ## Description
 
@@ -12,8 +12,8 @@ Random Sort implements the classic "Bogosort" algorithm as a joke/educational li
 ## Installation
 
 ```bash
-# From PyPI (when published)
-pip install random_sort
+# From PyPI
+pip install random-sort
 
 # Directly from GitHub
 pip install git+https://github.com/FrancescoGrazioso/random_sort.git
